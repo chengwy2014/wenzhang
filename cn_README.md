@@ -1,6 +1,6 @@
-Engilsh https://github.com/chengwy2014/wenzhang/bolb/main/README.md
-简体中文 https://github.com/chengwy2014/wenzhang/bolb/main/zh_README.md
-繁體中文 https://github.com/chengwy2014/wenzhang/bolb/main/cn_README.md
+Engilsh README.md
+简体中文 zh_README.md
+繁體中文 cn_README.md
 
 你好，
 这个存储库是我的文章，
