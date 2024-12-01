@@ -17,5 +17,5 @@
 我从10岁时创建此存储库，
 之后的每篇文章都会上传到此处，
 如想要阅读，
-请访问"https://chengwy2014.github.io"
+请访问"https://chengwy2014.github.io/wenzhang"
 请在网址后加上"/[数字]"或"[数字]"以切换不同的文章
