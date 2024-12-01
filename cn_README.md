@@ -19,5 +19,5 @@
 我從10歲時創建此存儲庫，
 之後的每篇文章都會上傳到此處，
 如想要閱讀，
-請訪問"https://chengwy2014.github.io"
+請訪問"https://chengwy2014.github.io/wenzhang"
 請在網址後加上"/[數位]"或"[數位]"以切換不同的文章
