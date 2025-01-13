@@ -2,7 +2,7 @@
 
 [简体中文](./zhcn_README.md)
 
-[繁體中文](./cn_README.md)
+[繁體中文](./zhtw_README.md)
 
 Hello, 
 this repository contains my articles and many of them that I have written. 
